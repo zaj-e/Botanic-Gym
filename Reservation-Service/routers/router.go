@@ -19,5 +19,7 @@ func init() {
 		),		
 	)
 	beego.AddNamespace(ns)
-    // beego.Router("/", &controllers.MainController{})
+	beego.Router("/", &controllers.ReservationController{})
+	
+
 }
