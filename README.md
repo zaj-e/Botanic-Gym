@@ -1,9 +1,8 @@
-## Things our REST API need to do
+## Things we need to do
 - Support HTTP/2
 - Automatically install TLS certificates (echo)
--
 
-## Tools that help building a REST API
+## Summary of tools that will help
 ------
 
 ### Web Server
